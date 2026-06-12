@@ -1,12 +1,36 @@
-# Student Management System
+Student Management System
 
-A SQL project to manage student records, courses, and enrollments.
+Project Overview
 
-## Features
-- Store student details
-- Manage courses
-- Track enrollments
-- SQL queries using JOIN, COUNT, and WHERE
+A SQL-based database project for managing student records, courses, and enrollments.
 
-## Author
+Features
+
+- Student Data Management
+- Course Management
+- Enrollment Tracking
+- SQL Joins
+- Data Filtering
+- Aggregate Functions
+
+SQL Concepts Used
+
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- WHERE
+- COUNT
+- ORDER BY
+- INNER JOIN
+- PRIMARY KEY
+- FOREIGN KEY
+
+Database Tables
+
+1. Students
+2. Courses
+3. Enrollments
+
+Author
+
 Anshu Kumari
